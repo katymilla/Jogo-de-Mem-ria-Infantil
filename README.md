@@ -1,5 +1,5 @@
 # Jogo de Memória Infantil
-Esse repositório foi criado como desafio de Projeto do bootcamp TQI Fullstack Developer oferecido pela DIO. Esse desafio foi ministrado por @Gabriela Pinheiro.
+Esse repositório foi criado como desafio de Projeto do módulo de JavaScript do bootcamp TQI Fullstack Developer oferecido pela DIO. Esse desafio foi ministrado por @Gabriela Pinheiro.
 
 Os requisitos básicos para a elaboração desse projeto são: HTML, CSS e JavaScript.
 
